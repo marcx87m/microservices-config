@@ -1,4 +1,2 @@
 foo: bar
-spring
-  redis
-    password: {cipher}95ea980ff5fee15cea169689300df795e6a5ee06b0f7424ac83a2e0e43f4b09b
+spring.redis.password: {cipher}95ea980ff5fee15cea169689300df795e6a5ee06b0f7424ac83a2e0e43f4b09b
